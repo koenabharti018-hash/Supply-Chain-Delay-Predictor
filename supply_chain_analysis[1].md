@@ -284,9 +284,6 @@ plt.savefig('delay_factors.png')
 plt.show()
 
 
-```<img width="629" height="470" alt="output_14_0" src="https://github.com/user-attachments/assets/fc83280c-e6f7-4d84-80bd-6f324b61e44c" />
-
-
 
 ```python
 
