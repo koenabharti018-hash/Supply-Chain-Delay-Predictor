@@ -21,10 +21,8 @@ Late deliveries are one of the most common pain points in supply chain managemen
 ## 🔍 What I Found
 
 - **Standard Class shipping** had the highest delay rate among all shipping modes — roughly XX% of orders arrived late
-- The **top 3 high-risk regions** for delays were [your findings here]
-- A **logistic regression model** was trained to predict late deliveries and achieved **XX% accuracy** on test data
-
-> *(Update the XX% values once you finalize your model results)*
+- The **top 3 high-risk regions** for delays were (serial-wise) **Central Africa, South Asia and East Africa.**
+- A **logistic regression model** was trained to predict late deliveries and achieved **97.49% accuracy** on test data
 
 ---
 
@@ -44,13 +42,4 @@ I built this as part of my data analytics portfolio to practice working with lar
 
 ---
 
-## 🚀 How to Run the Notebook
-
-1. Clone this repository
-2. Install dependencies: `pip install pandas scikit-learn matplotlib seaborn`
-3. Open `supply_chain_analysis.ipynb` in Jupyter or VS Code
-4. Run all cells from top to bottom
-
----
-
-*Built with SQL, Python, and Power BI | Dataset: [add source if public]*
+*Built with SQL, Python, and Power BI | Dataset: [kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis]*
