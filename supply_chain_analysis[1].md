@@ -282,12 +282,9 @@ plt.xlabel('Impact Score')
 plt.tight_layout()
 plt.savefig('delay_factors.png')
 plt.show()
-```
 
 
-    
-![png](output_14_0.png)
-    
+```<img width="629" height="470" alt="output_14_0" src="https://github.com/user-attachments/assets/fc83280c-e6f7-4d84-80bd-6f324b61e44c" />
 
 
 
