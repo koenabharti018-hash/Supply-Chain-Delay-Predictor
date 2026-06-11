@@ -20,7 +20,7 @@ Late deliveries are one of the most common pain points in supply chain managemen
 
 ## 🔍 What I Found
 
-- **Standard Class shipping** had the highest delay rate among all shipping modes — roughly XX% of orders arrived late
+- **Standard Class shipping** had the highest delay rate among all shipping modes.
 - The **top 3 high-risk regions** for delays were (serial-wise) **Central Africa, South Asia and East Africa.**
 - A **logistic regression model** was trained to predict late deliveries and achieved **97.49% accuracy** on test data
 
